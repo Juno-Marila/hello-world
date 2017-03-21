@@ -1,2 +1,2 @@
 # hello-world
-Hi what kind of symantics will you use?
+Hi what kind of syntax will you use?
